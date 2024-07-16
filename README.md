@@ -1,1 +1,1 @@
-# mannyslab-parse-server
+# template-parse-server
